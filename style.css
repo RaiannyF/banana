@@ -1,0 +1,11 @@
+body{
+    background-color: #005373; 
+    margin: 10px;
+}
+
+.letra{
+    color:#ffffff; 
+    font-size: 40px;
+    font-weight: bold; 
+    padding-top: 30px;
+}
